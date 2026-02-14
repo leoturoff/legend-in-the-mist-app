@@ -1,0 +1,7 @@
+[project]
+name = "legend-in-the-mist-app"
+version = "0.1.0"
+description = "Python app to run Legend in the Mist mechanics, game by Son of Oak"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
